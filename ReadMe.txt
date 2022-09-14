@@ -1,5 +1,3 @@
-Nihar Gupte
-1001556441
 A ReadMe file that explains how to execute the JUnit code
 
 
